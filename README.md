@@ -1,4 +1,5 @@
 try_git
 =======
 
-primera prueba con github
+Primera prueba con github.
+Add ejemplo djangp views/template/context
