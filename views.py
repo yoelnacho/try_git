@@ -9,7 +9,6 @@ from django.shortcuts import render_to_response
 def index(request):
 	cadena = "Hola, mi primera app."
 	return HttpResponse(cadena)
-
 # genero la vista post y tomo la variable id para saber el numero de post. EJ: post/2
 def post(request, id):
 	return HttpResponse("Este es el post %s" % id)
