@@ -14,3 +14,5 @@ try_git
 6-Cambio de contenido RADME.md en branch master
 
 7-Ver si genera conflicto al hacer merge.
+
+8-Solo master nuevo comentario
